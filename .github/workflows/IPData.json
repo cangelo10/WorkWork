@@ -1,3 +1,3 @@
 [    
-    {'department': "500 MENS ATHLETIC FOOTWEAR", 'subDepartment': "500.1 MENS RUNNING", 'class': "500.1.6 NEW BALANCE", 'subclass': "500.1.6.1 NEW BALANCE", 'cc': "MT410LA64E-410 V6 4E GRYBLK-Black/Grey", 'style': "MT410LA64E-410 V6 4E GRYBLK", 'color': "Black/Grey", 'sku': 19546748 , 'salesUnits':  23, 'salesDollars': 831.39}
+    {"department": "500 MENS ATHLETIC FOOTWEAR", "subDepartment": "500.1 MENS RUNNING", "class": "500.1.6 NEW BALANCE", "subclass": "500.1.6.1 NEW BALANCE", "cc": "MT410LA64E-410 V6 4E GRYBLK-Black/Grey", "style": "MT410LA64E-410 V6 4E GRYBLK", 'color': "Black/Grey", "sku": 19546748 , "salesUnits":  23, "salesDollars": 831.39}
 ]
